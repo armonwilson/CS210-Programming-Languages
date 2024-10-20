@@ -1,0 +1,6 @@
+Toronto 8.3
+Lima 18.9
+Istanbul 13.9
+Lagos 27.2
+Shanghai 16.1
+Sydney 17.8
